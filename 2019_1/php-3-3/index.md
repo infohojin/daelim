@@ -17,10 +17,6 @@ PHP를 이용한 웹사이트 구축.
 
 [안내자료](https://docs.google.com/document/d/e/2PACX-1vRprmJGuJ_KR91_sfz3CoQrPR7D37hbsxKHTcF9lSh4quBo5bZleOvIsngidaTk8IJW9ARcMLj_wdFD/pub)
 
-참고서적  
-* [넘버원 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
-* [넘버투 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
-* [넘버쓰리 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
 
 ## 11팀
 환경오염 인식 싱글페이지
@@ -30,7 +26,7 @@ PHP를 이용한 웹사이트 구축.
 * 이준철
 * 서자현
 
-[자세히](./3/team11)
+[자세히](team11)
 
 ## 12팀
 세계 여행정보 사이트
@@ -39,7 +35,7 @@ PHP를 이용한 웹사이트 구축.
 * 이상규
 * 나광진
 
-[자세히](./3/team12)
+[자세히](team12)
 
 ## 13팀
 일승기업 사이트 리뉴얼
@@ -49,7 +45,7 @@ PHP를 이용한 웹사이트 구축.
 * 양찬영
 * 김진성
 
-[자세히](./3/team13)
+[자세히](team13)
 
 ## 14팀
 게인정보 소개 사이트
@@ -58,7 +54,7 @@ PHP를 이용한 웹사이트 구축.
 * 김다빈
 * 김진영
 
-[자세히](./3/team14)
+[자세히](team14)
 
 ## 15팀
 BJ를 위한 소개 웹사이트
@@ -66,7 +62,7 @@ BJ를 위한 소개 웹사이트
 * 김태원
 * 조선형
 
-[자세히](./3/team15)
+[자세히](team15)
 
 ## 16팀
 야구, 농구, 축구 쇼핑몰
@@ -75,4 +71,4 @@ BJ를 위한 소개 웹사이트
 * 허정무
 * 유승완
 
-[자세히](./3/team16)
+[자세히](team16)

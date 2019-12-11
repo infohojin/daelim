@@ -17,10 +17,6 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 
 [안내자료](https://docs.google.com/document/d/e/2PACX-1vRZOal8vWSkA1li2w3nKTY3JZKYB8I6PlL3SC1E2k3caFs4XGKPCG03AqQk0KEDWBbYVlizJz-QOiuq/pub)
 
-참고서적  
-* [넘버원 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
-* [넘버투 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
-* [넘버쓰리 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
 
 ## 1팀
 주제 : 오늘 뭐먹지?
@@ -29,7 +25,7 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 명민지
 * 김해인
 
-[자세히](./1/team1)
+[자세히](team1)
 
 ## 2팀
 커뮤니티 계시판
@@ -37,7 +33,7 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 이정민
 * 이담
 
-[자세히](./1/team2)
+[자세히](team2)
 
 ## 3팀
 결혼 정보제공
@@ -45,7 +41,7 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 이유리
 * 조은솔
 
-[자세히](./1/team3)
+[자세히](team3)
 
 ## 4팀
 운동파트너
@@ -55,14 +51,14 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 이종명
 
 
-[자세히](./1/team4)
+[자세히](team4)
 
 ## 5팀
 축구팀 소개
 * 우성재
 * 박영호
 
-[자세히](./1/team5)
+[자세히](team5)
 
 ## 6팀
 축구경기 커뮤니티
@@ -70,7 +66,7 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 이주연
 * 이준오
 
-[자세히](./1/team6)
+[자세히](team6)
 
 ## 7팀
 고기 식당 예약시스템
@@ -79,7 +75,7 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 우현아
 * 오윤기
 
-[자세히](./1/team7)
+[자세히](team7)
 
 ## 8팀
 국사문제 사이트.
@@ -88,14 +84,14 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 최성호
 * 조범진
 
-[자세히](./1/team8)
+[자세히](team8)
 
 ## 9팀
 음식점 정보 공유
 * 이동윤
 * 박기덕
 
-[자세히](./1/team9)
+[자세히](team9)
 
 ## 10팀
 게임 정보 공유
@@ -104,4 +100,4 @@ PHP를 이용한 REST API 구축 및 웹 클라이언트 서비스 제작
 * 소홍렬
 * 김대현
 
-[자세히](./1/team10)
+[자세히](team10)
