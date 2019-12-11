@@ -12,3 +12,8 @@ PHP 및 HTML, Javascript를 이용하여 실제 웹서비스를 기획, 제작�
 ## 2018-2 스마트콘텐츠응용
 PHP 언어와 동작방식에 대해서 학습합니다.  
 [수업정보](2018_2)
+
+## 참고서적  
+* [넘버원 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072892?scode=032&OzSrank=2)
+* [넘버투 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072899?scode=032&OzSrank=3)
+* [넘버쓰리 PHP / 이호진 / 비제이퍼블릭](http://www.yes24.com/Product/Goods/58072905?scode=032&OzSrank=1)
